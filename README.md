@@ -27,16 +27,16 @@ The **ProSensia Internship Program** offered me an opportunity to work on real-w
 2. Python scripts, notebooks, or code files
 3.Screenshots or demos (if relevant)
 
-##How to Use This Repo
-1.Clone the repo to your local machine:
+## How to Use This Repo
+Clone the repo to your local machine:
 (git clone https://github.com/yourusername/prosensia-internship-tasks.git)
-2.Navigate into any folder to explore that specific task.
-3.Follow the instructions in the code comments.
+Navigate into any folder to explore that specific task.
+Follow the instructions in the code comments.
 
-##License
+## License
 This repository is open for learning purposes. Please feel free to explore and adapt. If you wish to use any code snippet in your own project, do give credit.
 
-##Author
+## Author
 Muhammad Qasim Khan
 AI Student | Intern @ ProSensia | Writer & Problem-Solver
 
